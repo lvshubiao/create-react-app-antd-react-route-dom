@@ -1,0 +1,7 @@
+export const ACTION_LOADINGD = 'ACTION_LOADINGD';
+export const ACTION_SUCCESS  = 'ACTION_SUCCESS';
+export const ACTION_FAILED   = 'ACTION_FAILED';
+
+
+//登录
+export const ACTION_TYPE_LOGIN = 'ACTION_TYPE_LOGIN'
