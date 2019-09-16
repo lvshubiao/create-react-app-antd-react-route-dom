@@ -1,6 +1,3 @@
-
-'use strict';
-
 import { ACTION_LOADINGD, ACTION_SUCCESS, ACTION_FAILED } from './type';
 
 /**
